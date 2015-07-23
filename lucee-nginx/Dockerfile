@@ -1,4 +1,4 @@
-FROM acd4021ba3f0
+FROM justincarter/lucee:latest
 
 MAINTAINER Justin Carter justin.w.carter@gmail.com
 

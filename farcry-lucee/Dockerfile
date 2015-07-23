@@ -1,4 +1,4 @@
-FROM 3bb79bdd32b0
+FROM justincarter/lucee-nginx:latest
 
 MAINTAINER Justin Carter justin.w.carter@gmail.com
 
